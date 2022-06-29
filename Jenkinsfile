@@ -24,7 +24,7 @@ pipeline {
             }
             stage('Deploy CP trial') {
                   steps {
-                        echo "Trial Deploy"
+                        echo "Trial CP Deploy"
                   }
             }
       }
